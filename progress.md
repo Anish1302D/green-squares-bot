@@ -905,3 +905,4 @@
 [2026-11-19 09:09:27 PM] The habit of showing up wins the game.
 [2026-11-20 01:50:30 AM] Small steps every day.
 [2026-11-20 01:50:30 AM] It’s not about perfection. It’s about progress.
+[2026-11-20 01:50:30 AM] Consistency is more important than intensity.
